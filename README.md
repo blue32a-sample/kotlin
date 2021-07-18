@@ -2,6 +2,8 @@
 
 https://kotlinlang.org
 
+[Learn Kotlin by Example](https://play.kotlinlang.org/byExample/overview)
+
 ## command-line compiler
 
 Compile the application using the Kotlin compiler.
